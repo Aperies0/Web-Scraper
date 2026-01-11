@@ -25,4 +25,4 @@ When emailing or opening a private report, please include:
 - Do not publish details of a confirmed vulnerability publicly before remediation unless you discuss it with me first.
 
 ## Legal note
-This project is provided for educational use only. Do not use it against systems you do not own or have permission to test. The repository owner is not responsible for misuse.
+This project is provided for educational use only. The repository owner is not responsible for misuse.
